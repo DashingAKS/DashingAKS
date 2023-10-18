@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DashingAKS
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning blockchain technology
-- 💞️ I’m looking to collaborate on airdrops
+- 💞️ I’m looking to collaborate in airdrops
 - 📫 How to reach me ...through email
 
 <!---
